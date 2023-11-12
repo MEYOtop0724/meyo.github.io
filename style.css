@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+.title {
+    background-image: url('title_bg.jpeg');
+    background-position: center;
+    color: white;
+    font-size: 300%;
+    height: 200px;
+    text-align: center;
+    padding: 50px;
+}
+.about {
+    background-image: url('teammeyo_logo.jpeg');
+    background-position: center;
+    height: 200px;
+    color: white;
+    
+}
+.history {
+    background: linear-gradient(Black, DarkBlue, DarkOrange);
+    color: white;
+}
+.links {
+    color: white;
+    background-color: rgb(45, 45, 45);
+    padding: 15px;
+}
+.links a {
+    color: white;
+    padding: 10px;
+}
+.links a:hover {
+    padding: 15px;
+    font-size: 24px;
+}
+#yt {
+    background-color: red;
+}
+#tw {
+    background-color: deepskyblue;
+}
+#dsc {
+    background-color: #5865f2;
+}
